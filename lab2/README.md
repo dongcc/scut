@@ -10,4 +10,8 @@
 
 4. login into the ibmcloud.com(register an IBM id if does not have one), and create Text to Speech service from the catalog.
 
+5. in the nodered, update the apikey from in the text to speech node of the flow that imported previously.
 
+6. access via the http://localhost:1880/talk
+
+7. 
