@@ -5,4 +5,4 @@
 
 2. publish your lab2 container image into the registry of the minikube/minishift or docker hub.
 
-3. write a yaml file to deploy your lab2 into the minikube/minishift environment
+3. write a yaml file to deploy your lab2 image into the minikube/minishift environment
