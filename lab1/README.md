@@ -6,7 +6,7 @@
 
 3. try out via: http://localhost:1880/talk
 
-4. issue command to check container status via docker ps in a sparate window
+4. issue command to check container status via docker ps in a separate terminal
 
 5. try the docker start/stop/logs/inspect/rm/rmi commands
 
