@@ -14,4 +14,4 @@
 
 6. try out via the http://localhost:1880/talk
 
-7. starting 2 container on different ports to sharing the same flow
+7. starting 2 container on different ports to sharing the same flow, investigate how to make the 2 or more containers to share the same flow.
