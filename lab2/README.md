@@ -4,7 +4,7 @@
    - npm install axios
    - npm install node-red-node-watson
   
-2. start lab2 container to make sure the watson nodes have been installed.
+2. start lab2 container to make sure the text to speech nodes have been installed.
 
 3. import the flow via loading the flows.json.
 
@@ -12,6 +12,6 @@
 
 5. in the nodered, update the apikey from in the text to speech node of the flow that imported previously.
 
-6. access via the http://localhost:1880/talk
+6. try out via the http://localhost:1880/talk
 
-7. 
+7. starting 2 container on different ports to sharing the same flow
