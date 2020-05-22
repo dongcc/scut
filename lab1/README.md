@@ -11,5 +11,5 @@ docker run -it -p 1880:1880 --name 1stnodered nodered/node-red
 5. try the docker start/stop/logs/inspect/rm/rmi commands
 
 6. run another cantainer on port 1881:
-docker run -it -p 1881:1880 --name 2ndnodered nodered/node-red
-check is the flow has been deployed still being there? why? how to archieve that? 
+- docker run -it -p 1881:1880 --name 2ndnodered nodered/node-red
+- check is the flow has been deployed still being there? why? how to archieve that? 
