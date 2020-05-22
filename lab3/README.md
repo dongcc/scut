@@ -23,3 +23,5 @@ docker service create --replicas 3  --name lab3  -p 1880:1880 --mount type=volum
 
 - try scaling the service to 5
 docker service scale lab3=5
+docker service ps
+docker ps
