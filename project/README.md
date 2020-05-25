@@ -1,4 +1,4 @@
-Building a chat robot for COVID19 status(an AI Assistant for COVID19)
+Team Project: Building a chat robot for COVID19 status(an AI Assistant for COVID19)
 - Application:
   - Front end, you can:
     - create a front chat ui, which will show the chatting history and a message box
