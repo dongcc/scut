@@ -18,5 +18,5 @@ Build container image for the front end and back end application.
 Deploy the application into a k8s cluster(minikube or minishift or a real k8s cluster) or a Docker Swarm cluster.
 - all the services need to have 2 + replicas
 
-A reference:
+A reference sample on the node-red application:
 https://developer.ibm.com/components/node-red/tutorials/create-a-voice-enabled-covid-19-chatbot-using-node-red/
