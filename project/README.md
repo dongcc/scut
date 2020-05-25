@@ -1,6 +1,6 @@
 Team Project: Building a chat robot for COVID19 status(an AI Assistant for COVID19)
 - Application:
-  - Front end, you can:
+  - Front end can do the following:
     - create a front chat ui, which will show the chatting history and a message box
     - you can use whatever language to create your UI or you can leverage the node-red dashboard(https://flows.nodered.org/node/node-red-dashboard)
   - Back end can do the following:
