@@ -13,10 +13,10 @@ Team Project: Building a chat robot for COVID19 status(an AI Assistant for COVID
   - About the COVID19 service:
     - https://flows.nodered.org/node/node-red-contrib-twc-covid19-tracker
 
-Build container image for the front end and back end application.
+- Build container image for the front end and back end application.
 
-Deploy the application into a k8s cluster(minikube or minishift or a real k8s cluster) or a Docker Swarm cluster.
-- all the services need to have 2 + replicas
+- Deploy the application into a k8s cluster(minikube or minishift or a real k8s cluster) or a Docker Swarm cluster.
+  - all the services need to have 2 + replicas
 
-A reference sample on the node-red application:
+- A reference sample on the node-red application:
 https://developer.ibm.com/components/node-red/tutorials/create-a-voice-enabled-covid-19-chatbot-using-node-red/
