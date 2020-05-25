@@ -15,8 +15,9 @@ Team Project: Building a chat robot for COVID19 status(an AI Assistant for COVID
 
 - Build container image for the front end and back end application.
 
-- Deploy the application into a k8s cluster(minikube or minishift or a real k8s cluster) or a Docker Swarm cluster.
+- Deploy the applications into a k8s cluster(minikube or minishift or a real k8s cluster) or a Docker Swarm cluster.
   - all the services need to have 2 + replicas
+  - suggest to use yaml(instead of command line) to deploy your applications
 
 - A reference sample on the node-red application:
 https://developer.ibm.com/components/node-red/tutorials/create-a-voice-enabled-covid-19-chatbot-using-node-red/
