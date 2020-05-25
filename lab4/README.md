@@ -1,4 +1,4 @@
-# lab4: deploying your application into k8s (optional)
+# lab4(optional): deploying your application into k8s 
 1. install minikube OR minishift on your laptop:
 - minikube: https://kubernetes.io/docs/tasks/tools/install-minikube/
 - minishift: https://www.okd.io/minishift/
